@@ -1,0 +1,7 @@
+{
+  "Alt": "If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.",
+  "Num": 1275,
+  "safe_title": "int(pi)",
+  "Title": "int(pi)",
+  "Transcript": "[[We see a line of code.]]\nvolume(r) = (r\nint(pi))*pi*r^int(pi)\nProgramming tip: the number \"3\" is cursed. Avoid it.\n\n{{Title text: If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) \n floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.}}"
+}
